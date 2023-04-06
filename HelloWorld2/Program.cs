@@ -12,7 +12,7 @@ namespace HelloWorld2
         {
             Console.WriteLine("Hello world2");
             Console.WriteLine("code pushing from 2nd developer");
-            Console.WriteLine("modified in remote");
+            Console.WriteLine("modified in remote repository");
             Console.ReadLine();
         }
     }
